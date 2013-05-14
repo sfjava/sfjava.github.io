@@ -1,4 +1,4 @@
 sfjava.github.io
 ================
 
-sfjava github-pages repo
+sfjava.com : github pages repo
