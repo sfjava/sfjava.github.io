@@ -1,8 +1,8 @@
 ---
 layout: post
-category : misc
-tagline: "GitHub Pages and Jekyll"
-tags : [blog, jekyll, GitHub Pages]
+category : 
+tagline:
+tags : [blog, jekyll, github pages, web dev]
 ---
 {% include JB/setup %}
 
